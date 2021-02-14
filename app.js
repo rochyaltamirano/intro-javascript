@@ -1,3 +1,7 @@
+//Ejemplo de Uso de variables - JS
+
+/*
+
 var nombre = "Josefa";
 console.log(nombre);
 console.log(typeof(nombre));
@@ -23,3 +27,5 @@ console.log(puestoDeTrabajo);
 
 puestoDeTrabajo = null;
 console.log(puestoDeTrabajo);
+*/
+
